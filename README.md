@@ -1,5 +1,5 @@
 # RK-8085 Assembler
-Rasheed Kibria's 8085 Assembler
+Name: Rasheed Kibria's 8085 Assembler
 
 Purpose: Converts a source code written in 8085 assembly language into its equivalent machine code which can be loaded into a 8085 microprocessor unit
 
@@ -9,6 +9,6 @@ Supported OS: Linux (Ubuntu 24.04 Noble)
 
 Usage: ./RK8085 -f file_name.ASM
 
-Copyright (C) 2021-2026 Rasheed Kibria
+Contact: rasheedkibria1995@gmail.com
 
-Email: rasheedkibria1995@gmail.com
+Copyright (C) 2021-2026 Rasheed Kibria
