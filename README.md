@@ -7,9 +7,9 @@ Feature: Supports the entire 8085 instruction set
 
 Supported OS: Linux (Ubuntu 24.04 Noble)
 
-Command: ./RK8085 -f source_file_name.asm
+Command:               ./RK8085 -f source_file_name.asm
 
-Example Command: ./RK8085 -f ./ADDNBYT.asm
+Example Command:       ./RK8085 -f ./ADDNBYT.asm
 
 Contact: rasheedkibria1995@gmail.com
 
