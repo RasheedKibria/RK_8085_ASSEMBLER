@@ -1,5 +1,5 @@
 # RK-8085 Assembler
-Name: Rasheed Kibria's 8085 Assembler
+Name: RK-8085 Assembler
 
 Purpose: Converts a source code written in 8085 assembly language into its equivalent machine code which can be loaded into a 8085 microprocessor unit
 
